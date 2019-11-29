@@ -1,0 +1,6 @@
+# Coorections I found during my try
+
+1. Missing or incorrect values for  'BI-RADS assessment' column is 3 instead of 2. 
+   addtional value is out of range for that column and is equal to 55 (row index 340)
+
+
